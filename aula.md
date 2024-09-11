@@ -36,12 +36,15 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
+- [x] Operador de comparação: == | = 
+
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
 - [x] Uma lista que contém qualquer tipo de dado 
+- [x] Métodos de array: push, [find, forEach, filter]: HOF(Highet order Functions) 
 
 ### Objetos:
 
@@ -58,3 +61,11 @@ Apresentar os dados
 ### Modulos
 - [x] Importação de módulos(require, COMMOMJS)
 - [x] Biblioteca (inquirer), para criar os prompts interatios
+
+### Programação assíncrona e Promises
+- [x] Uso de funções assíncronas (async/await)
+
+### Condicionais
+- [x] if/else
+- [x] switch
+
